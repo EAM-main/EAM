@@ -19,11 +19,11 @@ We conduct experiments on two datasets: [FakeSV](https://github.com/ICTMCG/FakeS
 - **Data Format**:
   ```
     {
-       "video_id": "7332393503843962144",   #short video news id
+       "video_id": "6795508387019869446",   #short video news id
        "annotation": "fake",                #short video news label(real/fake)
-       "event": "UFO spotted in Romania",   #short video news events are summarized by LLM
-       "text_description": "UFO recorded in Romania #ufo #ufos #uaps #ovni #onvis #alien #aliens #ufosighting #extraterrestrial #ufocommunity #uap #uaptiktok #viral #fyp ", #short video news title
-       "video_transcripts": "FO recorded in Romania What do you think of this let me know in comments",  #short video news transcripts
+       "event": "Chick fil A Offers Free Meals, Shakes and Breakfast Promotions",   #short video news events are summarized by LLM
+       "text_description": "We get free meals for a whole year!! #foryou #fyp #chickfila #mypleasure #storytime ", #short video news title
+       "video_transcripts": "Waiting outside Chick-fil-A at 4:00 am for a lifetime pass\n Got picked out of 4K people!\nFirst 100",  #short video news transcripts
     }
   ```
 ##  Environment
