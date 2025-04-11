@@ -6,7 +6,7 @@
 
 The Event-Aware Multimodal (**EAM**) representation learning method that directly learns event semantics from raw multimodal posts, and jointly models both holistic and detailed cues for detection.
 
-![img.png](framework.png)
+![img.png](framework.pdf)
 
 
 ## Dataset
